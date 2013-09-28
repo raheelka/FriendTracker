@@ -1,0 +1,1 @@
+On starting the application send GPS coordinates through DDMS before clicking on any Contact so that the initial GPS co-ordinates can be initialized.
